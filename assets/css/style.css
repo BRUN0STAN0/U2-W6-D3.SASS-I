@@ -1,0 +1,418 @@
+body {
+  background-color: crimson;
+}
+
+p {
+  color: gray;
+}
+
+.btn {
+  display: block;
+  margin: 1px;
+}
+
+.button-1 {
+  width: 1%;
+}
+
+.button-2 {
+  width: 2%;
+}
+
+.button-3 {
+  width: 3%;
+}
+
+.button-4 {
+  width: 4%;
+}
+
+.button-5 {
+  width: 5%;
+}
+
+.button-6 {
+  width: 6%;
+}
+
+.button-7 {
+  width: 7%;
+}
+
+.button-8 {
+  width: 8%;
+}
+
+.button-9 {
+  width: 9%;
+}
+
+.button-10 {
+  width: 10%;
+}
+
+.button-11 {
+  width: 11%;
+}
+
+.button-12 {
+  width: 12%;
+}
+
+.button-13 {
+  width: 13%;
+}
+
+.button-14 {
+  width: 14%;
+}
+
+.button-15 {
+  width: 15%;
+}
+
+.button-16 {
+  width: 16%;
+}
+
+.button-17 {
+  width: 17%;
+}
+
+.button-18 {
+  width: 18%;
+}
+
+.button-19 {
+  width: 19%;
+}
+
+.button-20 {
+  width: 20%;
+}
+
+.button-21 {
+  width: 21%;
+}
+
+.button-22 {
+  width: 22%;
+}
+
+.button-23 {
+  width: 23%;
+}
+
+.button-24 {
+  width: 24%;
+}
+
+.button-25 {
+  width: 25%;
+}
+
+.button-26 {
+  width: 26%;
+}
+
+.button-27 {
+  width: 27%;
+}
+
+.button-28 {
+  width: 28%;
+}
+
+.button-29 {
+  width: 29%;
+}
+
+.button-30 {
+  width: 30%;
+}
+
+.button-31 {
+  width: 31%;
+}
+
+.button-32 {
+  width: 32%;
+}
+
+.button-33 {
+  width: 33%;
+}
+
+.button-34 {
+  width: 34%;
+}
+
+.button-35 {
+  width: 35%;
+}
+
+.button-36 {
+  width: 36%;
+}
+
+.button-37 {
+  width: 37%;
+}
+
+.button-38 {
+  width: 38%;
+}
+
+.button-39 {
+  width: 39%;
+}
+
+.button-40 {
+  width: 40%;
+}
+
+.button-41 {
+  width: 41%;
+}
+
+.button-42 {
+  width: 42%;
+}
+
+.button-43 {
+  width: 43%;
+}
+
+.button-44 {
+  width: 44%;
+}
+
+.button-45 {
+  width: 45%;
+}
+
+.button-46 {
+  width: 46%;
+}
+
+.button-47 {
+  width: 47%;
+}
+
+.button-48 {
+  width: 48%;
+}
+
+.button-49 {
+  width: 49%;
+}
+
+.button-50 {
+  width: 50%;
+}
+
+.button-51 {
+  width: 51%;
+}
+
+.button-52 {
+  width: 52%;
+}
+
+.button-53 {
+  width: 53%;
+}
+
+.button-54 {
+  width: 54%;
+}
+
+.button-55 {
+  width: 55%;
+}
+
+.button-56 {
+  width: 56%;
+}
+
+.button-57 {
+  width: 57%;
+}
+
+.button-58 {
+  width: 58%;
+}
+
+.button-59 {
+  width: 59%;
+}
+
+.button-60 {
+  width: 60%;
+}
+
+.button-61 {
+  width: 61%;
+}
+
+.button-62 {
+  width: 62%;
+}
+
+.button-63 {
+  width: 63%;
+}
+
+.button-64 {
+  width: 64%;
+}
+
+.button-65 {
+  width: 65%;
+}
+
+.button-66 {
+  width: 66%;
+}
+
+.button-67 {
+  width: 67%;
+}
+
+.button-68 {
+  width: 68%;
+}
+
+.button-69 {
+  width: 69%;
+}
+
+.button-70 {
+  width: 70%;
+}
+
+.button-71 {
+  width: 71%;
+}
+
+.button-72 {
+  width: 72%;
+}
+
+.button-73 {
+  width: 73%;
+}
+
+.button-74 {
+  width: 74%;
+}
+
+.button-75 {
+  width: 75%;
+}
+
+.button-76 {
+  width: 76%;
+}
+
+.button-77 {
+  width: 77%;
+}
+
+.button-78 {
+  width: 78%;
+}
+
+.button-79 {
+  width: 79%;
+}
+
+.button-80 {
+  width: 80%;
+}
+
+.button-81 {
+  width: 81%;
+}
+
+.button-82 {
+  width: 82%;
+}
+
+.button-83 {
+  width: 83%;
+}
+
+.button-84 {
+  width: 84%;
+}
+
+.button-85 {
+  width: 85%;
+}
+
+.button-86 {
+  width: 86%;
+}
+
+.button-87 {
+  width: 87%;
+}
+
+.button-88 {
+  width: 88%;
+}
+
+.button-89 {
+  width: 89%;
+}
+
+.button-90 {
+  width: 90%;
+}
+
+.button-91 {
+  width: 91%;
+}
+
+.button-92 {
+  width: 92%;
+}
+
+.button-93 {
+  width: 93%;
+}
+
+.button-94 {
+  width: 94%;
+}
+
+.button-95 {
+  width: 95%;
+}
+
+.button-96 {
+  width: 96%;
+}
+
+.button-97 {
+  width: 97%;
+}
+
+.button-98 {
+  width: 98%;
+}
+
+.button-99 {
+  width: 99%;
+}
+
+.button-100 {
+  width: 100%;
+}
+
+.ingrandisci {
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */

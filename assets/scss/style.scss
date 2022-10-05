@@ -1,0 +1,25 @@
+$primary-color: crimson;
+$secondary-color: gray;
+
+body {
+    background-color: $primary-color;
+}
+
+p {
+    color: $secondary-color;
+}
+
+.btn {
+    display: block;
+    margin: 1px;
+}
+
+@for $i from 1 through 100 {
+    .button-#{$i} {
+        width: $i * 1%;
+    }
+}
+
+.ingrandisci {
+    width: 100%;
+}
